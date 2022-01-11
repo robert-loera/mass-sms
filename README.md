@@ -11,4 +11,7 @@ to different users by just uploading a csv file.
 
 
 ## Implementation
-- Choose a file you would like to send messages to with the choose file button
+![](https://github.com/robert-loera/mass-sms/blob/main/gui-ss.png)
+- Select a file you would like to send messages to with the choose file button
+- Type your message in the message box
+- Press send when finished and all messages will be sent and return a status
