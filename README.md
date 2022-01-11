@@ -5,4 +5,4 @@ This program allows users to connect their twilio account and send unique messag
 to different users by just uploading a csv file.
 
 ## Installation
-* Install packages with pip: '''pip install -r requirements.txt'''
+* Install packages with pip: ```pip install -r requirements.txt```
