@@ -11,10 +11,10 @@ import twilio
 
 # Declare constants
 # Enter personal SID and Token here
-ACCOUNT_SID = ####
-TEST_SID =  ####
-ACCOUNT_TOKEN =  ####
-TEST_TOKEN =  ####"
+ACCOUNT_SID = 0
+TEST_SID =  0
+ACCOUNT_TOKEN =  0
+TEST_TOKEN =  0
 
 class TreeView(ttk.Frame):
 	'''Treeview class to display csv contents'''
